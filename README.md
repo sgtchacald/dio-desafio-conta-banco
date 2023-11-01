@@ -1,2 +1,2 @@
-# dio-fundamentos-plataforma-java
-DIO - Fundamentos da Plataforma Java
+# dio-fundamentos-plataforma-java-conta-banco
+DIO - Fundamentos da Plataforma Java -  Projeto ContaBanco
